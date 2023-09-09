@@ -1,0 +1,3 @@
+Here are the notes from the second lecture on 08/28/23 
+ In this lecture, we discussed the Unix system, git and other commands, and the structure of the user interface /kernel/system interface. 
+ Although the commands were complicated and unclear, after vim,git and gcc everything became a bit clearer and with practice I got used to using Linux and navigating the terminal smoothly.

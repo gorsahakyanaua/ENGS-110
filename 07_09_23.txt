@@ -1,0 +1,1 @@
+During the lesson we learn what is Bolean Logic. A boolean function is a function that takes arguments and a result values from a two-element array typically {true, false}, {0,1}. We also study Data Representation. And we have a homework to continue the algorithm that we write during the class.  
