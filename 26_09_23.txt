@@ -1,0 +1,1 @@
+Today we discuss different arays. We discuss how to use arays and how to initialized them.
