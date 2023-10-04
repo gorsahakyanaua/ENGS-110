@@ -1,0 +1,1 @@
+At the beggining of the lesson we have discussed the ypes of operators, furthermore, we discussed the difference between ++i and i++ and many other things.

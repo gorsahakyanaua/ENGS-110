@@ -1,0 +1,1 @@
+During the lecture we wrote a code that was at the additioal homework. Moreover, we have tried to understand global variabes and dynamic memory.
